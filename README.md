@@ -60,9 +60,3 @@
 * **Đánh giá khả năng ứng dụng thực tế và hướng phát triển:** Phân tích về khả năng áp dụng và hướng phát triển.
 * **Bản demo/video trình bày (nếu có):** Nên làm clip demo trên Youtube và chép link vào trong readme.
 
-
-* Markdown là một ngôn ngữ đánh dấu nhẹ, dễ đọc và dễ viết. Các phần trên đã được trình bày bằng Markdown.
-* Để hiển thị đúng định dạng, bạn cần sử dụng một trình soạn thảo hoặc công cụ hỗ trợ Markdown (ví dụ: GitHub, VS Code với extension Markdown, các website hỗ trợ Markdown).
-* Các dấu `#` tạo tiêu đề, dấu `*` tạo chữ in nghiêng hoặc in đậm, dấu `-` hoặc `*` tạo danh sách, `|` và `-` tạo bảng.
-
-Hy vọng mẫu Markdown này đầy đủ và hữu ích. Nếu thầy có thêm yêu cầu cụ thể nào, bạn có thể bổ sung vào cấu trúc này.
