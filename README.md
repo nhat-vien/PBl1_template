@@ -43,7 +43,9 @@
 
 ## Các lưu ý quan trọng
 
-* **Tuân thủ format tài liệu tham khảo:** Đảm bảo tất cả các tài liệu tham khảo được trình bày theo đúng định dạng yêu cầu (ví dụ: APA, MLA, IEEE,...).
+* **Repository phải để chế độ Private:** Chỉ chia sẻ cho thành viên trong nhóm, GV hướng dẫn và các GV phản biện. Nếu để chế độ Public sẽ bị điểm 0.
+* **Không được hiệu chỉnh nội dung trước thời điểm báo cáo 1 tuần:** Để tạo công bằng cho các nhóm, nội dung phải hoàn chỉnh hoàn toàn trước thời điểm báo cáo 1 tuần, kể cả làm slide, thuyết minh và video demo.
+* **Tuân thủ format tài liệu tham khảo:** Đảm bảo tất cả các tài liệu tham khảo được trình bày theo đúng định dạng yêu cầu.
 * **Trích dẫn nguồn tham khảo:** Nếu có sử dụng bất kỳ thông tin, ý tưởng, hoặc kết quả nào từ các đề tài, báo cáo, sách, bài báo khoa học,... trước đây, phải trích dẫn rõ ràng và đầy đủ ngay tại vị trí tham khảo trong nội dung và liệt kê trong mục "Tài liệu tham khảo".
 * **Code tham khảo:** Toàn bộ code tham khảo (nếu có) phải được upload đầy đủ lên hệ thống (ví dụ: GitHub, Google Drive theo yêu cầu của giảng viên).
 * **Tính mới của code:** Trong phần nội dung (thuyết minh), nhóm phải chỉ ra một cách cụ thể những điểm mới, những phần code do chính nhóm thực hiện và có sự khác biệt so với các tài liệu tham khảo. Giải thích rõ ràng về sự cải tiến, phát triển hoặc ý tưởng độc đáo của nhóm.
